@@ -31,9 +31,9 @@ All Part-1 specifications are provided as formal Word documents (`.docx`), Markd
 
 | Deliverable | Standard / Format | Document Link | Scope & Highlights |
 |---|---|---|---|
-| **1. Software Requirements Specification** | IEEE Std 830-1998 (`.docx` / `.md`) | [docs/1_SRS_SmartLabEquipment.docx](docs/1_SRS_SmartLabEquipment.docx) / [MD](docs/1_SRS_SmartLabEquipment.md) | 10 Functional Requirements (FR-001 to FR-010), 6 Measurable NFRs, 4 Security Objectives & Embedded UML Use Case Specifications |
-| **2. Software Test Plan** | IEEE Std 829-2008 (`.docx` / `.md`) | [docs/2_TestPlan_SmartLabEquipment.docx](docs/2_TestPlan_SmartLabEquipment.docx) / [MD](docs/2_TestPlan_SmartLabEquipment.md) | Test Strategy, Section 5 Security Validation, Full Traceability Matrix & 27 Detailed Test Cases (TC-001 to TC-027) |
-| **3. Architecture & Design Specification** | IEEE Std 1016-2009 (`.docx` / `.md`) | [docs/3_ArchitectureDesign_SmartLabEquipment.docx](docs/3_ArchitectureDesign_SmartLabEquipment.docx) / [MD](docs/3_ArchitectureDesign_SmartLabEquipment.md) | 3-Tier Layered Pattern, Component Decomposition, Dynamic Sequence Workflows, REST API Specifications & 3NF ER Relational Schemas |
+| **1. Software Requirements Specification** | IEEE Std 830-1998 (`.docx`) | [docs/1_SRS_SmartLabEquipment.docx](docs/1_SRS_SmartLabEquipment.docx) | 10 Functional Requirements (FR-001 to FR-010), 6 Measurable NFRs, 4 Security Objectives & Embedded UML Use Case Specifications |
+| **2. Software Test Plan** | IEEE Std 829-2008 (`.docx`) | [docs/2_TestPlan_SmartLabEquipment.docx](docs/2_TestPlan_SmartLabEquipment.docx) | Test Strategy, Section 5 Security Validation, Full Traceability Matrix & 27 Detailed Test Cases (TC-001 to TC-027) |
+| **3. Architecture & Design Specification** | IEEE Std 1016-2009 (`.docx`) | [docs/3_ArchitectureDesign_SmartLabEquipment.docx](docs/3_ArchitectureDesign_SmartLabEquipment.docx) | 3-Tier Layered Pattern, Component Decomposition, Dynamic Sequence Workflows, REST API Specifications & 3NF ER Relational Schemas |
 | **4. UML Use Case Diagram (draw.io)** | draw.io XML / PNG | [docs/use_case_diagram.drawio](docs/use_case_diagram.drawio) / [PNG](docs/use_case_diagram.png) | Native editable draw.io diagram covering Student, Lab Technician, Notification & Auth actors (UC-01 to UC-15) |
 
 ---
