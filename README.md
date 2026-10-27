@@ -43,7 +43,7 @@ The project backlog is organized into **exactly 20 issues** (maximum 20 issues a
 - **Sprint 1 [27th Oct to 31st Oct 2026]**: Core Setup, Authentication, Equipment Catalog, Calibration Check, Real-time Slot Availability & Concurrency Lock Engine.
 - **Sprint 2 [2nd Nov to 7th Nov 2026]**: Equipment Return & Late-Return Penalty Engine, Technician Override Portal, Notification Adapter, Security Hardening & Release Freeze.
 
-### 📅 Sprint 1 Backlog [19th Oct to 31st Oct 2026] (32 SP)
+### 📅 Sprint 1 Backlog [27th Oct to 31st Oct 2026] (32 SP)
 | Issue # | Title & Requirement | SP | Assigned Team Member |
 |---|---|:---:|---|
 | **#1** | `[SP-5] FR-001: 2-Hour Slot Reservation & 7-Day Advance Window Engine` | 5 | [@LakshanyaaN](https://github.com/LakshanyaaN) |
