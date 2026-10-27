@@ -42,7 +42,7 @@ All Part-1 specifications are provided as formal Word documents (`.docx`), Markd
 
 The project backlog is organized into **exactly 20 issues** (maximum 20 issues as per requirements), assigned with **Fibonacci Story Points** (`[SP-1]` to `[SP-5]`), and planned across **Two Sprints**:
 
-- **Sprint 1 [19th Oct to 31st Oct 2026]**: Core Setup, Authentication, Equipment Catalog, Calibration Check, Real-time Slot Availability & Concurrency Lock Engine.
+- **Sprint 1 [27th Oct to 31st Oct 2026]**: Core Setup, Authentication, Equipment Catalog, Calibration Check, Real-time Slot Availability & Concurrency Lock Engine.
 - **Sprint 2 [2nd Nov to 7th Nov 2026]**: Equipment Return & Late-Return Penalty Engine, Technician Override Portal, Notification Adapter, Security Hardening & Release Freeze.
 
 ### 📅 Sprint 1 Backlog [19th Oct to 31st Oct 2026] (32 SP)
