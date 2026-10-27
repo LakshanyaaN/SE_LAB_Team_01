@@ -12,12 +12,12 @@ A web-based **Smart Lab Equipment Slot Reservation Portal** designed for educati
 
 **Course:** Software Engineering Lab-01 (UE24CS341A) | **Team No:** 001 | **Problem Statement:** PS-001
 
-| Team Member | SRN / Roll No | Role | Module Domain |
+| Team Member | SRN | Github Profile | Role | Module Domain |
 |---|---|---|---|
-| **N. Lakshanyaa** | `PES1UG24AM169` | Team Lead & Frontend Architect | UI Components, Search/Filter Engine & Reservation UI |
-| **Mohammed Arfan Asgar** | `PES1UG24AM163` | Database Engineer & Systems Analyst | Schema Design, Concurrency Control & Database Lock Isolation |
-| **Kshama** | `PES1UG24AM142` | Backend & Security Architect | REST APIs, Authentication, RBAC & Calibration Verification Service |
-| **Manjunatha H J** | `PES1UG24AM157` | QA Lead & Continuous Integration | Test Automation, Return/Late-Return Tracker & Notification Adapter |
+| **N. Lakshanyaa** | `PES1UG24AM169` | [@LakshanyaaN](https://github.com/LakshanyaaN) |Team Lead & Frontend Architect | UI Components, Search/Filter Engine & Reservation UI |
+| **Mohammed Arfan Asgar** | `PES1UG24AM163` | [@arfanasgar](https://github.com/arfanasgar) | Database Engineer & Systems Analyst | Schema Design, Concurrency Control & Database Lock Isolation |
+| **Kshama** | `PES1UG24AM142` | [@KSHAMA4](https://github.com/KSHAMA4) | Backend & Security Architect | REST APIs, Authentication, RBAC & Calibration Verification Service |
+| **Manjunatha H J** | `PES1UG24AM157` | [@ManjunathaHJ](https://github.com/ManjunathaHJ) | QA Lead & Continuous Integration | Test Automation, Return/Late-Return Tracker & Notification Adapter |
 
 ---
 
